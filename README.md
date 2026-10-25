@@ -3,6 +3,8 @@ This code configures an ESP32-CAM with an OV2640 camera, connects it to Wi-Fi, a
 
 It uses this board: ESP32 CAM Development Board BT WiFi Camera Module with Battery Interface 2.4 GHz DVP 24Pin for OV2640 2MP TYPE-C IP5306
 
+https://www.aliexpress.com/item/1005008810097240.html
+
 BOARD: ESP32 DEV MODULE
 PARTITION SCHEME: HUGE APP (3MB NO OTA)
 PSRAM: DISABLED
