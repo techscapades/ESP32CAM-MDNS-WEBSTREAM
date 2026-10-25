@@ -5,8 +5,12 @@ It uses this board: ESP32 CAM Development Board BT WiFi Camera Module with Batte
 
 https://www.aliexpress.com/item/1005008810097240.html
 
+Arduino IDE config:
+
 BOARD: ESP32 DEV MODULE
+
 PARTITION SCHEME: HUGE APP (3MB NO OTA)
+
 PSRAM: DISABLED
 
 ![ESP32CAM](BOARD.PNG)
